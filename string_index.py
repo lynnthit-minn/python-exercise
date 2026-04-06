@@ -1,0 +1,5 @@
+print("Hello"[2+1])
+print("Hello"[0])
+print("Hello"[4])
+print("Hey,Bob"[4])
+print("Hey,Bob"[6-1])

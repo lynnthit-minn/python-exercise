@@ -1,0 +1,7 @@
+rocket_player = ("Luke","John","Lynn","Minn")
+print(len(rocket_player))
+print(rocket_player[3])
+print(rocket_player[2])
+print(rocket_player[ :2])
+print(rocket_player[2: ])
+print(rocket_player[-1])

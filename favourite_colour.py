@@ -1,0 +1,6 @@
+colours = ("yellow","blue","green","red")
+print(colours[0])
+print(colours[1])
+print(colours[2])
+print(colours[3])
+print("My favourite colour is", colours[1])
